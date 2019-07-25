@@ -1,5 +1,5 @@
 # QUEBO An artificial teacher
-/**
+
  * QUEBO is an android application based on google vision API and made up of two basic architectures-
  * Optical Character Recognition, helps to find and detect alphabets or words from an image.
  * The second one is POS Tagger that detects Parts of speech from a sentence or word.
@@ -22,4 +22,4 @@
  * 3. Read the least data from noisy pictures*/
  
  
-This is not a **100% Complete** project. The work is under construction!
+This is **not** a **100% Complete** project. The work is under construction!
