@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".ShowPOSActivity"
+    android:background="#f8fdbd">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Noun and its Rules"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="#f1e23f"
+            android:text="----The simplest definition of a noun is a thing and nouns are the basic building blocks of sentences. These things can represent a person, animal, place, idea, emotion – almost any thing that you can think of. Dog, Sam, we, love, phone, Chicago, courage and spaceship are all nouns. "
+            android:textColor="#500606"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text=" 1. The same noun can appear in different forms, depending on how it is used.
+A countable noun can be singular or plural. Most nouns in English form the plural by adding -s or -es to the noun, although there are some exceptions:
+One dog, two dogs, red dog, blue dog.
+I missed not just one bus today, but two buses."
+            android:textColor="#100f0f"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+
+            android:text=" 2. Uncountable nouns and proper nouns are always considered to be singular:
+The air in the countryside and in the city is clean and fresh (not the airs).
+All knowledge is a good thing (not knowledges). "
+            android:textColor="#121111"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text=" 3. A noun can be used as the subject of a sentence, or in another capacity as an object:
+John is nice. – John is the subject of the sentence
+I saw John – John is the simple (direct) object of the sentence. "
+            android:textColor="#1e1e1e"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+
+            android:text=" 4.Most singular possessives are formed by adding an apostrophe and “s.” If the noun is plural, the possessive form becomes “s” and apostrophe.
+Singular Common: Dog
+Singular Possessive: Dog’s "
+            android:textColor="#1e1e1e"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

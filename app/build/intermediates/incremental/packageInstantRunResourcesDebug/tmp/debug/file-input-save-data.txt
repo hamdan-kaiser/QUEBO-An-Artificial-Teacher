@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue Dec 04 02:45:29 PST 2018
+2.base=G\:\\Guru-20181022T173414Z-001\\Guru\\app\\build\\intermediates\\assets\\debug
+0.path=swear_en.properties
+2.baseType=DIRECTORY
+3.base=G\:\\Guru-20181022T173414Z-001\\Guru\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=en_token.bin
+4.base=G\:\\Guru-20181022T173414Z-001\\Guru\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=stopping_en.properties
+4.set=ASSET
+3.path=stopping_nl.properties
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=en_pos_maxent.bin
+1.baseType=DIRECTORY
+0.base=G\:\\Guru-20181022T173414Z-001\\Guru\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=G\:\\Guru-20181022T173414Z-001\\Guru\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
