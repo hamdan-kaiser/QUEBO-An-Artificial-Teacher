@@ -23,3 +23,5 @@
  
  
 This is **not** a **100% Complete** project. The work is under construction!
+
+This project is under [MIT LICENSE](LICENSE.txt)
